@@ -1,4 +1,4 @@
-# Nikhilcoin Smart Contract
+# Nikhilcoin Contract
 
 This repository contains the Solidity code for the Nikhilcoin smart contract. Nikhilcoin is a basic implementation of a custom token with functionalities for minting, burning, and transferring tokens. The contract follows basic principles similar to ERC20 without strictly adhering to the standard.
 
