@@ -99,7 +99,3 @@ function mint(address to, uint256 value) public onlyOwner returns (bool)
 3. **Transfer**: Call `transfer(address to, uint256 value)` to transfer tokens from the sender's address to another address.
 4. **Burn**: Call `burn(uint256 value)` to burn tokens from the sender's address.
 5. **Mint**: Call `mint(address to, uint256 value)` to mint new tokens to a specific address. Only the owner can call this function.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
